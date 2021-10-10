@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6162c62a2eb84278022d447d"
+  },
+  "username": "neha",
+  "email": "neha@gmail.com",
+  "mobile": "01944971865",
+  "createdAt": {
+    "$date": "2021-10-10T10:53:32.207Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-10T12:38:46.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162c879c6e1823d5869a42a"
+  },
+  "username": "raima",
+  "email": "raima@gmail.com",
+  "mobile": "01784351292",
+  "createdAt": {
+    "$date": "2021-10-10T11:03:21.145Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-10T11:03:21.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162c943c6e1823d5869a42c"
+  },
+  "username": "mahadia",
+  "email": "mahadia@gmail.com",
+  "mobile": "01784351292",
+  "createdAt": {
+    "$date": "2021-10-10T11:06:43.229Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-10T11:06:43.229Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162ca2fc6e1823d5869a430"
+  },
+  "username": "sneha islam",
+  "email": "sneha@gmail.com",
+  "mobile": "01784351292",
+  "createdAt": {
+    "$date": "2021-10-10T11:10:39.508Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-10T12:38:56.009Z"
+  },
+  "__v": 0
+}]
